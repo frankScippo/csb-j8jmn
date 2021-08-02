@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://frankscippo.github.io/csb-j8jmn/static/css/main.b3dad5ad.chunk.css",
+    "main.js": "https://frankscippo.github.io/csb-j8jmn/static/js/main.13d43f3e.chunk.js",
+    "main.js.map": "https://frankscippo.github.io/csb-j8jmn/static/js/main.13d43f3e.chunk.js.map",
+    "runtime-main.js": "https://frankscippo.github.io/csb-j8jmn/static/js/runtime-main.b9195e06.js",
+    "runtime-main.js.map": "https://frankscippo.github.io/csb-j8jmn/static/js/runtime-main.b9195e06.js.map",
+    "static/js/2.f0fcdfa7.chunk.js": "https://frankscippo.github.io/csb-j8jmn/static/js/2.f0fcdfa7.chunk.js",
+    "static/js/2.f0fcdfa7.chunk.js.map": "https://frankscippo.github.io/csb-j8jmn/static/js/2.f0fcdfa7.chunk.js.map",
+    "index.html": "https://frankscippo.github.io/csb-j8jmn/index.html",
+    "static/css/main.b3dad5ad.chunk.css.map": "https://frankscippo.github.io/csb-j8jmn/static/css/main.b3dad5ad.chunk.css.map",
+    "static/js/2.f0fcdfa7.chunk.js.LICENSE.txt": "https://frankscippo.github.io/csb-j8jmn/static/js/2.f0fcdfa7.chunk.js.LICENSE.txt",
+    "static/media/duck_click.38ad24c3.png": "https://frankscippo.github.io/csb-j8jmn/static/media/duck_click.38ad24c3.png",
+    "static/media/duck_sound.e6a1b2d8.wav": "https://frankscippo.github.io/csb-j8jmn/static/media/duck_sound.e6a1b2d8.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9195e06.js",
+    "static/js/2.f0fcdfa7.chunk.js",
+    "static/css/main.b3dad5ad.chunk.css",
+    "static/js/main.13d43f3e.chunk.js"
+  ]
+}
