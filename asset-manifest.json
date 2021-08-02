@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://frankscippo.github.io/csb-j8jmn/static/css/main.b3dad5ad.chunk.css",
-    "main.js": "https://frankscippo.github.io/csb-j8jmn/static/js/main.13d43f3e.chunk.js",
-    "main.js.map": "https://frankscippo.github.io/csb-j8jmn/static/js/main.13d43f3e.chunk.js.map",
+    "main.js": "https://frankscippo.github.io/csb-j8jmn/static/js/main.bf3bb6b1.chunk.js",
+    "main.js.map": "https://frankscippo.github.io/csb-j8jmn/static/js/main.bf3bb6b1.chunk.js.map",
     "runtime-main.js": "https://frankscippo.github.io/csb-j8jmn/static/js/runtime-main.b9195e06.js",
     "runtime-main.js.map": "https://frankscippo.github.io/csb-j8jmn/static/js/runtime-main.b9195e06.js.map",
     "static/js/2.f0fcdfa7.chunk.js": "https://frankscippo.github.io/csb-j8jmn/static/js/2.f0fcdfa7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b9195e06.js",
     "static/js/2.f0fcdfa7.chunk.js",
     "static/css/main.b3dad5ad.chunk.css",
-    "static/js/main.13d43f3e.chunk.js"
+    "static/js/main.bf3bb6b1.chunk.js"
   ]
 }
